@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\bin\Debug\TPLarano.exe.config
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\bin\Debug\TPLarano.exe
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\bin\Debug\TPLarano.pdb
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.Form1.resources
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.exe
+C:\Users\ComputerLab4PC1\source\repos\TPLarano\obj\Debug\TPLarano.pdb
